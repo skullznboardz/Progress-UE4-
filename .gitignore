@@ -1,0 +1,9 @@
+Build
+Binaries
+Intermediate
+Saved
+*.sln
+*.sdf
+*.opensdf
+*.opendb
+.vs
